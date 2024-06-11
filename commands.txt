@@ -1,0 +1,16 @@
+  190  git push
+  194  git status
+  195  git pull
+  197  cd section
+  200  npm start
+  202  cd react-js-course
+  204  cd section5
+  205  code .
+  206  npm install -g create-vite
+  209  mkdir nav-bar
+  210  cd nav-bar
+  213  npm create vite@latest
+  215  clear
+  217  cd NavBar
+  218  ;s
+  219  ls
